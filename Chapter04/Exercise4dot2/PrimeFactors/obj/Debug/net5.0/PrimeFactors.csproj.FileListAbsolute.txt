@@ -1,0 +1,12 @@
+/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactors/bin/Debug/net5.0/PrimeFactors.deps.json
+/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactors/bin/Debug/net5.0/PrimeFactors.dll
+/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactors/bin/Debug/net5.0/ref/PrimeFactors.dll
+/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactors/bin/Debug/net5.0/PrimeFactors.pdb
+/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactors/obj/Debug/net5.0/PrimeFactors.csprojAssemblyReference.cache
+/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactors/obj/Debug/net5.0/PrimeFactors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactors/obj/Debug/net5.0/PrimeFactors.AssemblyInfoInputs.cache
+/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactors/obj/Debug/net5.0/PrimeFactors.AssemblyInfo.cs
+/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactors/obj/Debug/net5.0/PrimeFactors.csproj.CoreCompileInputs.cache
+/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactors/obj/Debug/net5.0/PrimeFactors.dll
+/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactors/obj/Debug/net5.0/ref/PrimeFactors.dll
+/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactors/obj/Debug/net5.0/PrimeFactors.pdb

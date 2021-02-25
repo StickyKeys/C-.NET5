@@ -1,0 +1,14 @@
+C:\Users\sbart\Desktop\Code\Chapter07\DotNetCoreEverywhere\bin\Release\net5.0\win10-x64\DotNetCoreEverywhere.exe
+C:\Users\sbart\Desktop\Code\Chapter07\DotNetCoreEverywhere\bin\Release\net5.0\win10-x64\DotNetCoreEverywhere.deps.json
+C:\Users\sbart\Desktop\Code\Chapter07\DotNetCoreEverywhere\bin\Release\net5.0\win10-x64\DotNetCoreEverywhere.runtimeconfig.json
+C:\Users\sbart\Desktop\Code\Chapter07\DotNetCoreEverywhere\bin\Release\net5.0\win10-x64\DotNetCoreEverywhere.runtimeconfig.dev.json
+C:\Users\sbart\Desktop\Code\Chapter07\DotNetCoreEverywhere\bin\Release\net5.0\win10-x64\DotNetCoreEverywhere.dll
+C:\Users\sbart\Desktop\Code\Chapter07\DotNetCoreEverywhere\bin\Release\net5.0\win10-x64\ref\DotNetCoreEverywhere.dll
+C:\Users\sbart\Desktop\Code\Chapter07\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\DotNetCoreEverywhere.csprojAssemblyReference.cache
+C:\Users\sbart\Desktop\Code\Chapter07\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\DotNetCoreEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbart\Desktop\Code\Chapter07\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\DotNetCoreEverywhere.AssemblyInfoInputs.cache
+C:\Users\sbart\Desktop\Code\Chapter07\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\DotNetCoreEverywhere.AssemblyInfo.cs
+C:\Users\sbart\Desktop\Code\Chapter07\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\DotNetCoreEverywhere.csproj.CoreCompileInputs.cache
+C:\Users\sbart\Desktop\Code\Chapter07\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\DotNetCoreEverywhere.dll
+C:\Users\sbart\Desktop\Code\Chapter07\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\ref\DotNetCoreEverywhere.dll
+C:\Users\sbart\Desktop\Code\Chapter07\DotNetCoreEverywhere\obj\Release\net5.0\win10-x64\DotNetCoreEverywhere.genruntimeconfig.cache

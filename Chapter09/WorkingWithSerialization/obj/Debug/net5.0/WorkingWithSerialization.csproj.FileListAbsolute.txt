@@ -1,0 +1,15 @@
+/Users/stevenb/Desktop/Code/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/WorkingWithSerialization.deps.json
+/Users/stevenb/Desktop/Code/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/WorkingWithSerialization.runtimeconfig.json
+/Users/stevenb/Desktop/Code/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/WorkingWithSerialization.runtimeconfig.dev.json
+/Users/stevenb/Desktop/Code/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/WorkingWithSerialization.dll
+/Users/stevenb/Desktop/Code/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/ref/WorkingWithSerialization.dll
+/Users/stevenb/Desktop/Code/Chapter09/WorkingWithSerialization/bin/Debug/net5.0/WorkingWithSerialization.pdb
+/Users/stevenb/Desktop/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.csprojAssemblyReference.cache
+/Users/stevenb/Desktop/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenb/Desktop/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.AssemblyInfoInputs.cache
+/Users/stevenb/Desktop/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.AssemblyInfo.cs
+/Users/stevenb/Desktop/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.csproj.CoreCompileInputs.cache
+/Users/stevenb/Desktop/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.dll
+/Users/stevenb/Desktop/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/ref/WorkingWithSerialization.dll
+/Users/stevenb/Desktop/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.pdb
+/Users/stevenb/Desktop/Code/Chapter09/WorkingWithSerialization/obj/Debug/net5.0/WorkingWithSerialization.genruntimeconfig.cache

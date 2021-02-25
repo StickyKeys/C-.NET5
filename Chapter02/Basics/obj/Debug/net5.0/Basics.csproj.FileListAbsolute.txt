@@ -1,0 +1,15 @@
+/Users/stevenb/Desktop/Code/Chapter02/Basics/bin/Debug/net5.0/Basics.deps.json
+/Users/stevenb/Desktop/Code/Chapter02/Basics/bin/Debug/net5.0/Basics.runtimeconfig.json
+/Users/stevenb/Desktop/Code/Chapter02/Basics/bin/Debug/net5.0/Basics.runtimeconfig.dev.json
+/Users/stevenb/Desktop/Code/Chapter02/Basics/bin/Debug/net5.0/Basics.dll
+/Users/stevenb/Desktop/Code/Chapter02/Basics/bin/Debug/net5.0/ref/Basics.dll
+/Users/stevenb/Desktop/Code/Chapter02/Basics/bin/Debug/net5.0/Basics.pdb
+/Users/stevenb/Desktop/Code/Chapter02/Basics/obj/Debug/net5.0/Basics.csprojAssemblyReference.cache
+/Users/stevenb/Desktop/Code/Chapter02/Basics/obj/Debug/net5.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenb/Desktop/Code/Chapter02/Basics/obj/Debug/net5.0/Basics.AssemblyInfoInputs.cache
+/Users/stevenb/Desktop/Code/Chapter02/Basics/obj/Debug/net5.0/Basics.AssemblyInfo.cs
+/Users/stevenb/Desktop/Code/Chapter02/Basics/obj/Debug/net5.0/Basics.csproj.CoreCompileInputs.cache
+/Users/stevenb/Desktop/Code/Chapter02/Basics/obj/Debug/net5.0/Basics.dll
+/Users/stevenb/Desktop/Code/Chapter02/Basics/obj/Debug/net5.0/ref/Basics.dll
+/Users/stevenb/Desktop/Code/Chapter02/Basics/obj/Debug/net5.0/Basics.pdb
+/Users/stevenb/Desktop/Code/Chapter02/Basics/obj/Debug/net5.0/Basics.genruntimeconfig.cache

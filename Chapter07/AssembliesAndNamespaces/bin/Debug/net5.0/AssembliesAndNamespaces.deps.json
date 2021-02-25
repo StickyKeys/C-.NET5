@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AssembliesAndNamespaces/1.0.0": {
+        "dependencies": {
+          "DialectSoftware.Collections.Matrix": "1.0.0",
+          "Newtonsoft.Json": "12.0.3",
+          "Packt.CSdotnet.SharedLibrary": "5.0.0"
+        },
+        "runtime": {
+          "AssembliesAndNamespaces.dll": {}
+        }
+      },
+      "DialectSoftware.Collections.Matrix/1.0.0": {
+        "runtime": {
+          "lib/DialectSoftware.Collections.Matrix.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Packt.CSdotnet.SharedLibrary/5.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/SharedLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssembliesAndNamespaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DialectSoftware.Collections.Matrix/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O0//+wnBGhEn+dMj60Cfg0DhlR/IrCFvCI4Bqau5ygQVOnxApV5O2NqRQtCYNUVERW+VrNmGiYZHsU/zrV8eSQ==",
+      "path": "dialectsoftware.collections.matrix/1.0.0",
+      "hashPath": "dialectsoftware.collections.matrix.1.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Packt.CSdotnet.SharedLibrary/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Zjz2tHMYG8wTe/KjmjuH4MNYpGfEAUYTKjyuurWzNR3Cc/mmCuFOfjGQxQ5rYCNUSwrrKN2MmBg6FOtFxhwm+w==",
+      "path": "packt.csdotnet.sharedlibrary/5.0.0",
+      "hashPath": "packt.csdotnet.sharedlibrary.5.0.0.nupkg.sha512"
+    }
+  }
+}

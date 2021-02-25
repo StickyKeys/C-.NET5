@@ -1,0 +1,15 @@
+/Users/stevenb/Desktop/Code/Chapter03/Operators/bin/Debug/net5.0/Operators.deps.json
+/Users/stevenb/Desktop/Code/Chapter03/Operators/bin/Debug/net5.0/Operators.runtimeconfig.json
+/Users/stevenb/Desktop/Code/Chapter03/Operators/bin/Debug/net5.0/Operators.runtimeconfig.dev.json
+/Users/stevenb/Desktop/Code/Chapter03/Operators/bin/Debug/net5.0/Operators.dll
+/Users/stevenb/Desktop/Code/Chapter03/Operators/bin/Debug/net5.0/ref/Operators.dll
+/Users/stevenb/Desktop/Code/Chapter03/Operators/bin/Debug/net5.0/Operators.pdb
+/Users/stevenb/Desktop/Code/Chapter03/Operators/obj/Debug/net5.0/Operators.csprojAssemblyReference.cache
+/Users/stevenb/Desktop/Code/Chapter03/Operators/obj/Debug/net5.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenb/Desktop/Code/Chapter03/Operators/obj/Debug/net5.0/Operators.AssemblyInfoInputs.cache
+/Users/stevenb/Desktop/Code/Chapter03/Operators/obj/Debug/net5.0/Operators.AssemblyInfo.cs
+/Users/stevenb/Desktop/Code/Chapter03/Operators/obj/Debug/net5.0/Operators.csproj.CoreCompileInputs.cache
+/Users/stevenb/Desktop/Code/Chapter03/Operators/obj/Debug/net5.0/Operators.dll
+/Users/stevenb/Desktop/Code/Chapter03/Operators/obj/Debug/net5.0/ref/Operators.dll
+/Users/stevenb/Desktop/Code/Chapter03/Operators/obj/Debug/net5.0/Operators.pdb
+/Users/stevenb/Desktop/Code/Chapter03/Operators/obj/Debug/net5.0/Operators.genruntimeconfig.cache

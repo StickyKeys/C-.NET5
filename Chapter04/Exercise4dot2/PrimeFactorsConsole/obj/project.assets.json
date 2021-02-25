@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "PrimeFactors/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PrimeFactors.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrimeFactors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimeFactors/1.0.0": {
+      "type": "project",
+      "path": "../PrimeFactors/PrimeFactors.csproj",
+      "msbuildProject": "../PrimeFactors/PrimeFactors.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "PrimeFactors >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/stevenb/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactorsConsole/PrimeFactorsConsole.csproj",
+      "projectName": "PrimeFactorsConsole",
+      "projectPath": "/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactorsConsole/PrimeFactorsConsole.csproj",
+      "packagesPath": "/Users/stevenb/.nuget/packages/",
+      "outputPath": "/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactorsConsole/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/stevenb/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactors/PrimeFactors.csproj": {
+              "projectPath": "/Users/stevenb/Desktop/Code/Chapter04/Exercise4dot2/PrimeFactors/PrimeFactors.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

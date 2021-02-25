@@ -1,0 +1,15 @@
+/Users/stevenb/Desktop/Code/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.deps.json
+/Users/stevenb/Desktop/Code/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.runtimeconfig.json
+/Users/stevenb/Desktop/Code/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.runtimeconfig.dev.json
+/Users/stevenb/Desktop/Code/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.dll
+/Users/stevenb/Desktop/Code/Chapter01/HelloCS/bin/Debug/net5.0/ref/HelloCS.dll
+/Users/stevenb/Desktop/Code/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.pdb
+/Users/stevenb/Desktop/Code/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.csprojAssemblyReference.cache
+/Users/stevenb/Desktop/Code/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenb/Desktop/Code/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.AssemblyInfoInputs.cache
+/Users/stevenb/Desktop/Code/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.AssemblyInfo.cs
+/Users/stevenb/Desktop/Code/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.csproj.CoreCompileInputs.cache
+/Users/stevenb/Desktop/Code/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.dll
+/Users/stevenb/Desktop/Code/Chapter01/HelloCS/obj/Debug/net5.0/ref/HelloCS.dll
+/Users/stevenb/Desktop/Code/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.pdb
+/Users/stevenb/Desktop/Code/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.genruntimeconfig.cache

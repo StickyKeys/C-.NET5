@@ -1,0 +1,15 @@
+/Users/stevenb/Desktop/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.csprojAssemblyReference.cache
+/Users/stevenb/Desktop/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenb/Desktop/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+/Users/stevenb/Desktop/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.AssemblyInfo.cs
+/Users/stevenb/Desktop/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+/Users/stevenb/Desktop/Code/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.deps.json
+/Users/stevenb/Desktop/Code/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.runtimeconfig.json
+/Users/stevenb/Desktop/Code/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.runtimeconfig.dev.json
+/Users/stevenb/Desktop/Code/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.dll
+/Users/stevenb/Desktop/Code/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/ref/BitwiseAndShiftOperators.dll
+/Users/stevenb/Desktop/Code/Chapter03/BitwiseAndShiftOperators/bin/Debug/net5.0/BitwiseAndShiftOperators.pdb
+/Users/stevenb/Desktop/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.dll
+/Users/stevenb/Desktop/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/ref/BitwiseAndShiftOperators.dll
+/Users/stevenb/Desktop/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.pdb
+/Users/stevenb/Desktop/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net5.0/BitwiseAndShiftOperators.genruntimeconfig.cache

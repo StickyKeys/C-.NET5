@@ -1,0 +1,5 @@
+Trace says, I am watching!
+Trace Error
+Trace warning
+Trace info
+Trace verbose

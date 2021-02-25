@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "Numbers"
+		},
+		{
+			"path": "Basics"
+		},
+		{
+			"path": "Strings"
+		},
+		{
+			"path": "Variables"
+		},
+		{
+			"path": "Dynamic"
+		},
+		{
+			"path": "Arrays"
+		},
+		{
+			"path": "NullHandling"
+		}
+	],
+	"settings": {}
+}

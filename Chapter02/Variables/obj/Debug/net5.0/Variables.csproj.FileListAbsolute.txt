@@ -1,0 +1,15 @@
+/Users/stevenb/Desktop/Code/Chapter02/Variables/obj/Debug/net5.0/Variables.csprojAssemblyReference.cache
+/Users/stevenb/Desktop/Code/Chapter02/Variables/obj/Debug/net5.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenb/Desktop/Code/Chapter02/Variables/obj/Debug/net5.0/Variables.AssemblyInfoInputs.cache
+/Users/stevenb/Desktop/Code/Chapter02/Variables/obj/Debug/net5.0/Variables.AssemblyInfo.cs
+/Users/stevenb/Desktop/Code/Chapter02/Variables/obj/Debug/net5.0/Variables.csproj.CoreCompileInputs.cache
+/Users/stevenb/Desktop/Code/Chapter02/Variables/bin/Debug/net5.0/Variables.deps.json
+/Users/stevenb/Desktop/Code/Chapter02/Variables/bin/Debug/net5.0/Variables.runtimeconfig.json
+/Users/stevenb/Desktop/Code/Chapter02/Variables/bin/Debug/net5.0/Variables.runtimeconfig.dev.json
+/Users/stevenb/Desktop/Code/Chapter02/Variables/bin/Debug/net5.0/Variables.dll
+/Users/stevenb/Desktop/Code/Chapter02/Variables/bin/Debug/net5.0/ref/Variables.dll
+/Users/stevenb/Desktop/Code/Chapter02/Variables/bin/Debug/net5.0/Variables.pdb
+/Users/stevenb/Desktop/Code/Chapter02/Variables/obj/Debug/net5.0/Variables.dll
+/Users/stevenb/Desktop/Code/Chapter02/Variables/obj/Debug/net5.0/ref/Variables.dll
+/Users/stevenb/Desktop/Code/Chapter02/Variables/obj/Debug/net5.0/Variables.pdb
+/Users/stevenb/Desktop/Code/Chapter02/Variables/obj/Debug/net5.0/Variables.genruntimeconfig.cache

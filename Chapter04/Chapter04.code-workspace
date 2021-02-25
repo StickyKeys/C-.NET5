@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "WritingFunctions"
+		},
+		{
+			"path": "Debugging"
+		},
+		{
+			"path": "Factorial"
+		},
+		{
+			"path": "CardinalToOrdinal"
+		},
+		{
+			"path": "TaxProgram"
+		},
+		{
+			"path": "Instrumenting"
+		},
+		{
+			"path": "CalculatorLib"
+		},
+		{
+			"path": "CalculatorLibUnitTests"
+		}
+	],
+	"settings": {}
+}

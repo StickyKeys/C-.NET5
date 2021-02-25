@@ -1,0 +1,15 @@
+/Users/stevenb/Desktop/Code/Chapter03/IterationStatements/obj/Debug/net5.0/IterationStatements.csprojAssemblyReference.cache
+/Users/stevenb/Desktop/Code/Chapter03/IterationStatements/obj/Debug/net5.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenb/Desktop/Code/Chapter03/IterationStatements/obj/Debug/net5.0/IterationStatements.AssemblyInfoInputs.cache
+/Users/stevenb/Desktop/Code/Chapter03/IterationStatements/obj/Debug/net5.0/IterationStatements.AssemblyInfo.cs
+/Users/stevenb/Desktop/Code/Chapter03/IterationStatements/obj/Debug/net5.0/IterationStatements.csproj.CoreCompileInputs.cache
+/Users/stevenb/Desktop/Code/Chapter03/IterationStatements/bin/Debug/net5.0/IterationStatements.deps.json
+/Users/stevenb/Desktop/Code/Chapter03/IterationStatements/bin/Debug/net5.0/IterationStatements.runtimeconfig.json
+/Users/stevenb/Desktop/Code/Chapter03/IterationStatements/bin/Debug/net5.0/IterationStatements.runtimeconfig.dev.json
+/Users/stevenb/Desktop/Code/Chapter03/IterationStatements/bin/Debug/net5.0/IterationStatements.dll
+/Users/stevenb/Desktop/Code/Chapter03/IterationStatements/bin/Debug/net5.0/ref/IterationStatements.dll
+/Users/stevenb/Desktop/Code/Chapter03/IterationStatements/bin/Debug/net5.0/IterationStatements.pdb
+/Users/stevenb/Desktop/Code/Chapter03/IterationStatements/obj/Debug/net5.0/IterationStatements.dll
+/Users/stevenb/Desktop/Code/Chapter03/IterationStatements/obj/Debug/net5.0/ref/IterationStatements.dll
+/Users/stevenb/Desktop/Code/Chapter03/IterationStatements/obj/Debug/net5.0/IterationStatements.pdb
+/Users/stevenb/Desktop/Code/Chapter03/IterationStatements/obj/Debug/net5.0/IterationStatements.genruntimeconfig.cache

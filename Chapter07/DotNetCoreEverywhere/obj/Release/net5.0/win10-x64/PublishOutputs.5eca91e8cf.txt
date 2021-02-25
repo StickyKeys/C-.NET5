@@ -1,0 +1,1 @@
+C:\Users\sbart\Desktop\Code\Chapter07\DotNetCoreEverywhere\bin\Release\net5.0\win10-x64\publish\DotNetCoreEverywhere.exe

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Exercise4dot2/PrimeFactors"
+		},
+		{
+			"path": "Exercise4dot2/PrimeFactorsConsole"
+		},
+		{
+			"path": "Exercise4dot2/PrimeFactorsUnitTests"
+		}
+	]
+}

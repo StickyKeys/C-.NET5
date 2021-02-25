@@ -1,0 +1,16 @@
+C:\Users\sbart\Desktop\Code\Chapter08\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.csprojAssemblyReference.cache
+C:\Users\sbart\Desktop\Code\Chapter08\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbart\Desktop\Code\Chapter08\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.AssemblyInfoInputs.cache
+C:\Users\sbart\Desktop\Code\Chapter08\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.AssemblyInfo.cs
+C:\Users\sbart\Desktop\Code\Chapter08\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.csproj.CoreCompileInputs.cache
+C:\Users\sbart\Desktop\Code\Chapter08\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.exe
+C:\Users\sbart\Desktop\Code\Chapter08\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.deps.json
+C:\Users\sbart\Desktop\Code\Chapter08\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.runtimeconfig.json
+C:\Users\sbart\Desktop\Code\Chapter08\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.runtimeconfig.dev.json
+C:\Users\sbart\Desktop\Code\Chapter08\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.dll
+C:\Users\sbart\Desktop\Code\Chapter08\WorkingWithReflection\bin\Debug\net5.0\ref\WorkingWithReflection.dll
+C:\Users\sbart\Desktop\Code\Chapter08\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.pdb
+C:\Users\sbart\Desktop\Code\Chapter08\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.dll
+C:\Users\sbart\Desktop\Code\Chapter08\WorkingWithReflection\obj\Debug\net5.0\ref\WorkingWithReflection.dll
+C:\Users\sbart\Desktop\Code\Chapter08\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.pdb
+C:\Users\sbart\Desktop\Code\Chapter08\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.genruntimeconfig.cache

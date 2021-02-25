@@ -1,0 +1,15 @@
+/Users/stevenb/Desktop/Code/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.csprojAssemblyReference.cache
+/Users/stevenb/Desktop/Code/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenb/Desktop/Code/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.AssemblyInfoInputs.cache
+/Users/stevenb/Desktop/Code/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.AssemblyInfo.cs
+/Users/stevenb/Desktop/Code/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.csproj.CoreCompileInputs.cache
+/Users/stevenb/Desktop/Code/Chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.deps.json
+/Users/stevenb/Desktop/Code/Chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.runtimeconfig.json
+/Users/stevenb/Desktop/Code/Chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.runtimeconfig.dev.json
+/Users/stevenb/Desktop/Code/Chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.dll
+/Users/stevenb/Desktop/Code/Chapter03/SelectionStatements/bin/Debug/net5.0/ref/SelectionStatements.dll
+/Users/stevenb/Desktop/Code/Chapter03/SelectionStatements/bin/Debug/net5.0/SelectionStatements.pdb
+/Users/stevenb/Desktop/Code/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.dll
+/Users/stevenb/Desktop/Code/Chapter03/SelectionStatements/obj/Debug/net5.0/ref/SelectionStatements.dll
+/Users/stevenb/Desktop/Code/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.pdb
+/Users/stevenb/Desktop/Code/Chapter03/SelectionStatements/obj/Debug/net5.0/SelectionStatements.genruntimeconfig.cache

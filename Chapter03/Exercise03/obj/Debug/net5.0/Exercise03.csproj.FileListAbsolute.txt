@@ -1,0 +1,15 @@
+/Users/stevenb/Desktop/Code/Chapter03/Exercise03/obj/Debug/net5.0/Exercise03.csprojAssemblyReference.cache
+/Users/stevenb/Desktop/Code/Chapter03/Exercise03/obj/Debug/net5.0/Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenb/Desktop/Code/Chapter03/Exercise03/obj/Debug/net5.0/Exercise03.AssemblyInfoInputs.cache
+/Users/stevenb/Desktop/Code/Chapter03/Exercise03/obj/Debug/net5.0/Exercise03.AssemblyInfo.cs
+/Users/stevenb/Desktop/Code/Chapter03/Exercise03/obj/Debug/net5.0/Exercise03.csproj.CoreCompileInputs.cache
+/Users/stevenb/Desktop/Code/Chapter03/Exercise03/bin/Debug/net5.0/Exercise03.deps.json
+/Users/stevenb/Desktop/Code/Chapter03/Exercise03/bin/Debug/net5.0/Exercise03.runtimeconfig.json
+/Users/stevenb/Desktop/Code/Chapter03/Exercise03/bin/Debug/net5.0/Exercise03.runtimeconfig.dev.json
+/Users/stevenb/Desktop/Code/Chapter03/Exercise03/bin/Debug/net5.0/Exercise03.dll
+/Users/stevenb/Desktop/Code/Chapter03/Exercise03/bin/Debug/net5.0/ref/Exercise03.dll
+/Users/stevenb/Desktop/Code/Chapter03/Exercise03/bin/Debug/net5.0/Exercise03.pdb
+/Users/stevenb/Desktop/Code/Chapter03/Exercise03/obj/Debug/net5.0/Exercise03.dll
+/Users/stevenb/Desktop/Code/Chapter03/Exercise03/obj/Debug/net5.0/ref/Exercise03.dll
+/Users/stevenb/Desktop/Code/Chapter03/Exercise03/obj/Debug/net5.0/Exercise03.pdb
+/Users/stevenb/Desktop/Code/Chapter03/Exercise03/obj/Debug/net5.0/Exercise03.genruntimeconfig.cache
