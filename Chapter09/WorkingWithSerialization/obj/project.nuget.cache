@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZY0jgxJlJLtn7QAbEVU28j22nYEmNvrhhUhm6w0WH+X7ObZUKmMMeGrUSKAQap8Y1uwjBN0iYge3hd1Ghu+zDg==",
+  "dgSpecHash": "h2bo5Wtx/0rL3AO3n+aa4sUssnQUij35d8gMGySzSumn0FOsi67aIVXEYI5RQH2nBEVGbwWmhxeN+luLxLeWag==",
   "success": true,
-  "projectFilePath": "/Users/stevenb/Desktop/Code/Chapter09/WorkingWithSerialization/WorkingWithSerialization.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\sbart\\Desktop\\Code\\Chapter09\\WorkingWithSerialization\\WorkingWithSerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sbart\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

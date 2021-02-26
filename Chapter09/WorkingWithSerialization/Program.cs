@@ -3,15 +3,19 @@ using System.Collections.Generic; // List<T>, HashSet<T>
 using System.Xml.Serialization;
 using System.IO; // FileStream
 using Packt.Shared; // Person
+using System.Threading.Tasks;
+
 using static System.Console;
 using static System.Environment;
 using static System.IO.Path;
+
+using NuJson = System.Text.Json.JsonSerializer;
 
 namespace WorkingWithSerialization
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             // create an object graph
             var people = new List<Person>
@@ -75,6 +79,44 @@ namespace WorkingWithSerialization
                         person.LastName,
                         person.Children.Count 
                     );
+                }
+            }
+
+            // JSON STUFF
+            // create a file path to the json file
+            string jsonPath = Path.Combine(CurrentDirectory, "people.json");
+
+            using(StreamWriter jsonStream = File.CreateText(jsonPath))
+            {
+                // create an object that will format as JSON
+                var jss = new Newtonsoft.Json.JsonSerializer();
+
+                // serialize the people to the json file
+                jss.Serialize(jsonStream, people);
+            }
+
+            WriteLine();
+            WriteLine("Written {0:N0} bytes of JSON to: {1}",
+                      new FileInfo(jsonPath).Length, jsonPath);
+
+            // Display the serialized object graph
+            WriteLine(File.ReadAllText(jsonPath));
+
+            // open json file to deserialize
+            using(FileStream jsonLoad = File.Open(jsonPath, FileMode.Open))
+            {
+                // deserialize object graph into a list of person
+                var loadedPeople = (List<Person>)
+
+                await NuJson.DeserializeAsync(
+                    utf8Json: jsonLoad,
+                    returnType: typeof(List<Person>)
+                );
+
+                foreach(var item in loadedPeople)
+                {
+                    WriteLine("{0} has {1} children.",
+                    item.LastName, item.Children?.Count ?? 0);
                 }
             }
         }
